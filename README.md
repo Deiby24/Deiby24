@@ -16,6 +16,6 @@
 
 <h2>Stats</h2>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deiby24&show_icons=true&theme=midnight-purple)
+
 </p>
