@@ -14,4 +14,8 @@
  <img alt=".net" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
 <img alt="Csharp" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
 
+<h2>Stats</h2>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deiby24&show_icons=true&theme=midnight-purple)
 </p>
