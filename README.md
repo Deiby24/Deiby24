@@ -13,16 +13,14 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt=".net" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
 <img alt="Csharp" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <h2>Stats</h2>
-<table align="center">
-  <tr border="none">
-<td width="50%" align="center" border="none">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Deiby24&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deiby24&show_icons=true&theme=midnight-purple)
-</td>
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Deiby24&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Deiby24&theme=midnight-purple&hide_border=true&langs_count=10" width="48%" />
+</p>
 
-</tr>
-</table>
+
 </p>
