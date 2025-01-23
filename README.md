@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=60&pause=1000&color=00E9F7&background=FBFBFB00&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Deiby)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Bubbles&size=60&pause=3000&color=0034F7&background=FBFBFB00&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Deiby)](https://git.io/typing-svg)
 
 <h1> Hey! Nice to see you.</h1>
 
@@ -22,8 +22,12 @@
 
 <h2>Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Deiby24&theme=midnight-purple&hide_border=true&langs_count=10" width="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Deiby24&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Deiby24" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deiby24&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </p>
 
 
